@@ -1,4 +1,4 @@
- [![MasterHead](https://media.licdn.com/dms/image/D4E03AQFYCfCHIAXNMA/profile-displayphoto-shrink_400_400/0/1677578405793?e=1722470400&v=beta&t=67RDLdh-pVe1cJNPMdDdQII73Je7b4Wydv--3EFX6og)
+ 
 <h1 align="center">Hi 👋, I'm Abdulkadir Öksüz</h1>
 <h3 align="center">I am a computer engineer</h3>
 
